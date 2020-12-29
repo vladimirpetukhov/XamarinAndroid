@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886936867212",
+    "project_id": "xamarin-android-62f49",
+    "firebase_url": "https://xamarin-android-62f49-default-rtdb.europe-west1.firebasedatabase.app",
+    "storage_bucket": "xamarin-android-62f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886936867212:android:fbb75ce3b287f4076f06a9",
+        "android_client_info": {
+          "package_name": "com.vladimirpetukhov.xamarinandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886936867212-57odgs1d1cel3ntooruk328mjrdfcrku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQNjlYNHE2NmpAMAQqDxQ5DAQYvnTly4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886936867212-57odgs1d1cel3ntooruk328mjrdfcrku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
