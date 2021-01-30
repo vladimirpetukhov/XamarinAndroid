@@ -5,6 +5,22 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAndroid", "XamarinAndroid\XamarinAndroid.csproj", "{BE0776B3-2869-40CC-96BE-02148EE8562D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "screenshots", "screenshots", "{3DFABF8F-B461-4CFA-B818-0A537E22AFF2}"
+	ProjectSection(SolutionItems) = preProject
+		XamarinAndroid\Resources\drawable\bandicam 2021-01-30 13-59-16-550.jpg = XamarinAndroid\Resources\drawable\bandicam 2021-01-30 13-59-16-550.jpg
+		XamarinAndroid\Resources\drawable\confirm_add_alumini.jpg = XamarinAndroid\Resources\drawable\confirm_add_alumini.jpg
+		XamarinAndroid\Resources\drawable\database.jpg = XamarinAndroid\Resources\drawable\database.jpg
+		XamarinAndroid\Resources\drawable\database_2.jpg = XamarinAndroid\Resources\drawable\database_2.jpg
+		XamarinAndroid\Resources\drawable\delete.jpg = XamarinAndroid\Resources\drawable\delete.jpg
+		XamarinAndroid\Resources\drawable\home.jpg = XamarinAndroid\Resources\drawable\home.jpg
+		XamarinAndroid\Resources\drawable\home_added.jpg = XamarinAndroid\Resources\drawable\home_added.jpg
+		XamarinAndroid\Resources\drawable\home_added_2.jpg = XamarinAndroid\Resources\drawable\home_added_2.jpg
+		XamarinAndroid\Resources\drawable\home_added_3.jpg = XamarinAndroid\Resources\drawable\home_added_3.jpg
+		XamarinAndroid\Resources\drawable\open_add_alumini.jpg = XamarinAndroid\Resources\drawable\open_add_alumini.jpg
+		XamarinAndroid\Resources\drawable\populate_form.jpg = XamarinAndroid\Resources\drawable\populate_form.jpg
+		XamarinAndroid\Resources\drawable\search.jpg = XamarinAndroid\Resources\drawable\search.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
