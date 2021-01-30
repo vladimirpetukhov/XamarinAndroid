@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "886936867212",
-    "project_id": "xamarin-android-62f49",
-    "firebase_url": "https://xamarin-android-62f49-default-rtdb.europe-west1.firebasedatabase.app",
-    "storage_bucket": "xamarin-android-62f49.appspot.com"
+    "project_number": "735528378042",
+    "firebase_url": "https://bfu-xamarin-android-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bfu-xamarin-android",
+    "storage_bucket": "bfu-xamarin-android.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:886936867212:android:fbb75ce3b287f4076f06a9",
+        "mobilesdk_app_id": "1:735528378042:android:6c5700bacf8eac1848ac83",
         "android_client_info": {
           "package_name": "com.vladimirpetukhov.xamarinandroid"
         }
       },
       "oauth_client": [
         {
-          "client_id": "886936867212-57odgs1d1cel3ntooruk328mjrdfcrku.apps.googleusercontent.com",
+          "client_id": "735528378042-fm54mgbjh1mfp2l6v82qdt1qo9qg640i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDnQNjlYNHE2NmpAMAQqDxQ5DAQYvnTly4"
+          "current_key": "AIzaSyC1nit_9ikebDuWwTXyXE1fwBhgOEXBsTQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "886936867212-57odgs1d1cel3ntooruk328mjrdfcrku.apps.googleusercontent.com",
+              "client_id": "735528378042-fm54mgbjh1mfp2l6v82qdt1qo9qg640i.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
