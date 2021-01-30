@@ -21,6 +21,5 @@
                 <li class="list-group-item">Xamarin</li>
             </ul>
         </div>
-        
-    </div>
+    
 </div>
