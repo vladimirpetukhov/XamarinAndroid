@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="gcm_defaultSenderId" translatable="false">735528378042</string>
+  <string name="google_app_id" translatable="false">1:735528378042:android:6c5700bacf8eac1848ac83</string>
+  <string name="default_web_client_id" translatable="false">735528378042-fm54mgbjh1mfp2l6v82qdt1qo9qg640i.apps.googleusercontent.com</string>
+  <string name="firebase_database_url" translatable="false">https://bfu-xamarin-android-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="google_api_key" translatable="false">AIzaSyC1nit_9ikebDuWwTXyXE1fwBhgOEXBsTQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC1nit_9ikebDuWwTXyXE1fwBhgOEXBsTQ</string>
+  <string name="google_storage_bucket" translatable="false">bfu-xamarin-android.appspot.com</string>
+  <string name="project_id" translatable="false">bfu-xamarin-android</string>
+</resources>
