@@ -25,7 +25,7 @@
             <h4>Pages</h4>
             <ul class="list-group">
                 <li class="list-group-item disabled" aria-disabled="true">Home<img src="https://github.com/vladimirpetukhov/XamarinAndroid/blob/master/XamarinAndroid/screenshots/home.jpg" /></li>
-                <li class="list-group-item">Add<img href="~/screenshots/open_add_alumini.jpg" /></li>
+                <li class="list-group-item">Add<img href="https://github.com/vladimirpetukhov/XamarinAndroid/blob/master/XamarinAndroid/screenshots/open_add_alumini.jpg" /></li>
                 <li class="list-group-item">Populate form</li>
                 <li class="list-group-item">Confirm Add</li>
                 <li class="list-group-item">Search</li>
