@@ -24,7 +24,7 @@
         <div class="col-md-6 col-12">
             <h4>Pages</h4>
             <ul class="list-group">
-                <li class="list-group-item disabled" aria-disabled="true"><img /></li>
+                <li class="list-group-item disabled" aria-disabled="true"><img src="./"/></li>
                 <li class="list-group-item">Dynamic search</li>
                 <li class="list-group-item">Delete Alumini</li>
                 <li class="list-group-item">Edit Alumini</li>
