@@ -7,6 +7,17 @@
         <h2>Alumini</h2>
         <hr />
         <div class="col-md-6 col-12">
+            <h4>Functionality</h4>
+            <ul class="list-group">
+                <li class="list-group-item disabled" aria-disabled="true">Cras justo odio</li>
+                <li class="list-group-item">Dapibus ac facilisis in</li>
+                <li class="list-group-item">Morbi leo risus</li>
+                <li class="list-group-item">Porta ac consectetur ac</li>
+                <li class="list-group-item">Vestibulum at eros</li>
+            </ul>
+        </div>
+        <div class="col-md-6 col-12">
+            <h4>Used Techologies</h4>
             <ul class="list-group">
                 <li class="list-group-item disabled" aria-disabled="true">Cras justo odio</li>
                 <li class="list-group-item">Dapibus ac facilisis in</li>
