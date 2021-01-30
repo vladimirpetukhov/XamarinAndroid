@@ -1,13 +1,5 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-<style>
-    li{
-        padding:2px;
-    }
-    img{
-        max-width:100px;
-        height:auto;
-    }
-</style>
+
 <div class="container">
     <div class="row">
         <h2>Alumini</h2>
@@ -29,17 +21,6 @@
                 <li class="list-group-item">Xamarin</li>
             </ul>
         </div>
-        <div class="col-md-6 col-12">
-            <h4>Pages</h4>
-            <ul class="list-group">
-                <li class="list-group-item disabled" aria-disabled="true">Home<img src="https://github.com/vladimirpetukhov/XamarinAndroid/blob/master/XamarinAndroid/screenshots/home.jpg" /></li>
-                <li class="list-group-item">Add<img href="https://github.com/vladimirpetukhov/XamarinAndroid/blob/master/XamarinAndroid/screenshots/open_add_alumini.jpg" /></li>
-                <li class="list-group-item">Populate form</li>
-                <li class="list-group-item">Confirm Add</li>
-                <li class="list-group-item">Search</li>
-                <li class="list-group-item">Delete</li>
-                <li class="list-group-item">Confirm Delete</li>
-            </ul>
-        </div>
+        
     </div>
 </div>
